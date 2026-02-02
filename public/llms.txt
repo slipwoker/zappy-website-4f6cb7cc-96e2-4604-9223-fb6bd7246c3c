@@ -1,0 +1,85 @@
+# Dream Nutrition — Generative Engine Optimization Map
+
+> A sports nutrition and supplements business.
+
+---
+
+## Pages
+
+### Home
+https://dream-nutrition-4f6cb7cc.zappy5.app
+
+### About
+https://dream-nutrition-4f6cb7cc.zappy5.app/about
+
+### Formulas
+https://dream-nutrition-4f6cb7cc.zappy5.app/formulas
+
+### Contact
+https://dream-nutrition-4f6cb7cc.zappy5.app/contact
+
+### Products
+https://dream-nutrition-4f6cb7cc.zappy5.app/products
+Our Products - Dream Nutrition
+
+### Cart
+https://dream-nutrition-4f6cb7cc.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://dream-nutrition-4f6cb7cc.zappy5.app/checkout
+Checkout
+
+### Login
+https://dream-nutrition-4f6cb7cc.zappy5.app/login
+Customer Login
+
+### Account
+https://dream-nutrition-4f6cb7cc.zappy5.app/account
+My Account
+
+### Order Success
+https://dream-nutrition-4f6cb7cc.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://dream-nutrition-4f6cb7cc.zappy5.app/product/:slug
+Product Details - Dream Nutrition
+
+### Category
+https://dream-nutrition-4f6cb7cc.zappy5.app/category/:slug
+Products - Dream Nutrition
+
+## Legal & Policy
+
+### Privacy Policy
+https://dream-nutrition-4f6cb7cc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dream-nutrition-4f6cb7cc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dream-nutrition-4f6cb7cc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Dream Nutrition
+Dream Nutrition is a business in the sports nutrition and supplements industry.
+
+## Target Audience
+fitness enthusiasts and athletes in Israel
+
+## Industry
+sports nutrition and supplements
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://dream-nutrition-4f6cb7cc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dream-nutrition-4f6cb7cc.zappy5.app/robots.txt

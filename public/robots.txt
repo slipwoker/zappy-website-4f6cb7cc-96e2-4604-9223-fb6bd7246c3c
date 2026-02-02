@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dream-nutrition-4f6cb7cc.zappy5.app/sitemap.xml
