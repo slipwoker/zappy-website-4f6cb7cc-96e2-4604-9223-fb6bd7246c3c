@@ -1,85 +1,75 @@
-# Dream Nutrition — Generative Engine Optimization Map
-
-> A sports nutrition and supplements business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://dream-nutrition-4f6cb7cc.zappy5.app
+https://example.com
 
 ### About
-https://dream-nutrition-4f6cb7cc.zappy5.app/about
+https://example.com/about
 
 ### Formulas
-https://dream-nutrition-4f6cb7cc.zappy5.app/formulas
+https://example.com/formulas
 
 ### Contact
-https://dream-nutrition-4f6cb7cc.zappy5.app/contact
+https://example.com/contact
 
 ### Products
-https://dream-nutrition-4f6cb7cc.zappy5.app/products
+https://example.com/products
 Our Products - Dream Nutrition
 
 ### Cart
-https://dream-nutrition-4f6cb7cc.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://dream-nutrition-4f6cb7cc.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://dream-nutrition-4f6cb7cc.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://dream-nutrition-4f6cb7cc.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://dream-nutrition-4f6cb7cc.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://dream-nutrition-4f6cb7cc.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Dream Nutrition
 
 ### Category
-https://dream-nutrition-4f6cb7cc.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Dream Nutrition
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://dream-nutrition-4f6cb7cc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://dream-nutrition-4f6cb7cc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://dream-nutrition-4f6cb7cc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Dream Nutrition
-Dream Nutrition is a business in the sports nutrition and supplements industry.
-
-## Target Audience
-fitness enthusiasts and athletes in Israel
-
-## Industry
-sports nutrition and supplements
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://dream-nutrition-4f6cb7cc.zappy5.app/sitemap.xml
-- **Robots.txt**: https://dream-nutrition-4f6cb7cc.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
